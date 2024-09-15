@@ -1,5 +1,6 @@
 // Replace with your actual API key
-const apiKey = "OPENAI_APIKEY";
+const apiKey = "OPENAI_APIKEY"
+
 
 document.getElementById("send-button").addEventListener("click", sendMessage);
 document
